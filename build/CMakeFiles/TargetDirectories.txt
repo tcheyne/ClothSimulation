@@ -1,0 +1,2 @@
+/Users/tcheyne/6.837/ProjThree/build/src/CMakeFiles/a3.dir
+/Users/tcheyne/6.837/ProjThree/build/vecmath/CMakeFiles/vecmath.dir
